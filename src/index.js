@@ -67,7 +67,8 @@ const tweetClient = new TwitterApi({
 const blockedMedias = [ // I'm sorry :(, but i want to keep this "professional"
   'MV-lehti',
   'Magneettimedia',
-  'Partisaani'
+  'Partisaani',
+  'Koronarealistit'
 ];
 
 async function main() {
